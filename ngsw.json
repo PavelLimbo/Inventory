@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779034171119,
+  "timestamp": 1779034475811,
   "index": "/Inventory/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/Inventory/index.html",
-        "/Inventory/main-U6H7IJCX.js",
+        "/Inventory/main-SFQLT3NS.js",
         "/Inventory/manifest.webmanifest",
         "/Inventory/styles-CO6RQVNP.css"
       ],
@@ -104,9 +104,9 @@
     "/Inventory/icons/icon-512x512.png": "bf1fd9bd511c4e0c31a8e8cc50f61e404aa00aeb",
     "/Inventory/icons/icon-72x72.png": "fefd453958ec6205bcd0a5057637fd633201c668",
     "/Inventory/icons/icon-96x96.png": "bc51057d5e7bd73556cf208ac21141620e199962",
-    "/Inventory/index.html": "aa80cb8e650cd2ecdafa7300ea7ea60808efa061",
-    "/Inventory/main-U6H7IJCX.js": "8b0b274cc0321ef1999dee0c3504b1593c7520ef",
-    "/Inventory/manifest.webmanifest": "8b0467d39cad822ec1679d95becfae5689f41c0b",
+    "/Inventory/index.html": "f0695c1f531b2a53fd09d2b15e615f43465e7d7c",
+    "/Inventory/main-SFQLT3NS.js": "848547352bed272665de6831608bdeae2490629c",
+    "/Inventory/manifest.webmanifest": "c9a229acf6ee6ac69db32f8ebfa0778508e13ff5",
     "/Inventory/styles-CO6RQVNP.css": "ad141bf840a38fe76b0276b1f26bee382009e380"
   },
   "navigationUrls": [
