@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779035251145,
+  "timestamp": 1779035502210,
   "index": "/Inventory/index.html",
   "assetGroups": [
     {
@@ -106,7 +106,7 @@
     "/Inventory/icons/icon-96x96.png": "bc51057d5e7bd73556cf208ac21141620e199962",
     "/Inventory/index.html": "87ff81ae47996ac9a76de5ac553941f2653b7723",
     "/Inventory/main-3ASKPW5C.js": "df7e310d7024e060e89edcf4925b748e13a1a607",
-    "/Inventory/manifest.webmanifest": "c9a229acf6ee6ac69db32f8ebfa0778508e13ff5",
+    "/Inventory/manifest.webmanifest": "89339fcc2f3106d588c739b789c91dd0080971a5",
     "/Inventory/styles-6TZNFAIH.css": "9a9fcdc84506d12d7b4eecfa95243f283602da8a"
   },
   "navigationUrls": [
