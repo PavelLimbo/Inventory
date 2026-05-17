@@ -1,0 +1,131 @@
+{
+  "configVersion": 1,
+  "timestamp": 1779032925531,
+  "index": "/Inventory/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Inventory/index.html",
+        "/Inventory/main-U6H7IJCX.js",
+        "/Inventory/manifest.webmanifest",
+        "/Inventory/styles-6TZNFAIH.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Inventory/assets/fonts/Circe-Bold.ttf",
+        "/Inventory/assets/fonts/Circe-Bold.woff",
+        "/Inventory/assets/fonts/Circe-Bold.woff2",
+        "/Inventory/assets/fonts/Circe-ExtraBold.ttf",
+        "/Inventory/assets/fonts/Circe-ExtraBold.woff",
+        "/Inventory/assets/fonts/Circe-ExtraBold.woff2",
+        "/Inventory/assets/fonts/Circe-Light.ttf",
+        "/Inventory/assets/fonts/Circe-Light.woff",
+        "/Inventory/assets/fonts/Circe-Light.woff2",
+        "/Inventory/assets/fonts/Circe-Regular.ttf",
+        "/Inventory/assets/fonts/Circe-Regular.woff",
+        "/Inventory/assets/fonts/Circe-Regular.woff2",
+        "/Inventory/assets/fonts/Circe-Thin.ttf",
+        "/Inventory/assets/fonts/Circe-Thin.woff",
+        "/Inventory/assets/fonts/Circe-Thin.woff2",
+        "/Inventory/assets/imgs/icon.png",
+        "/Inventory/assets/svgs/burger-topmenu.svg",
+        "/Inventory/assets/svgs/icon.svg",
+        "/Inventory/assets/svgs/logo.svg",
+        "/Inventory/assets/svgs/logout.svg",
+        "/Inventory/assets/svgs/select-arrow.svg",
+        "/Inventory/icons/icon-128x128.png",
+        "/Inventory/icons/icon-144x144.png",
+        "/Inventory/icons/icon-152x152.png",
+        "/Inventory/icons/icon-192x192.png",
+        "/Inventory/icons/icon-384x384.png",
+        "/Inventory/icons/icon-512x512.png",
+        "/Inventory/icons/icon-72x72.png",
+        "/Inventory/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "tablesApis",
+      "patterns": [
+        "http:\\/\\/localhost:5041\\/api\\/products\\/"
+      ],
+      "strategy": "performance",
+      "maxAge": 30000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/Inventory/assets/fonts/Circe-Bold.ttf": "dc9ec86a8a2b4d53aa4e09283c8827af7eba7a21",
+    "/Inventory/assets/fonts/Circe-Bold.woff": "d847d19f41751aa7e58776900ab33fcee2ad7fcf",
+    "/Inventory/assets/fonts/Circe-Bold.woff2": "efce11b777ebcd75049788f10459489cd748f7be",
+    "/Inventory/assets/fonts/Circe-ExtraBold.ttf": "72fcbef1cc97e97acf01fe673f29e279cf7b8ac2",
+    "/Inventory/assets/fonts/Circe-ExtraBold.woff": "918a72b9de66aab7b55be1fe0f09e7c088af12bf",
+    "/Inventory/assets/fonts/Circe-ExtraBold.woff2": "b82dc067500d6a9204fd7cdcddb72fa392f9d0c7",
+    "/Inventory/assets/fonts/Circe-Light.ttf": "be137269aabc62bf069698f73158886c8b9b4ffd",
+    "/Inventory/assets/fonts/Circe-Light.woff": "ae28ba7a249144d8646b1c18a268bb56a5403ead",
+    "/Inventory/assets/fonts/Circe-Light.woff2": "5bcb797727d7c5538f2191fc613ac323f29118d5",
+    "/Inventory/assets/fonts/Circe-Regular.ttf": "c29d2fcd18d930e4041b934a9bffa13ca0c7eb6d",
+    "/Inventory/assets/fonts/Circe-Regular.woff": "af5fc1243cd93dc5c4f058080baafc5e542a0a9e",
+    "/Inventory/assets/fonts/Circe-Regular.woff2": "6a34a02bf06eb241338dff9e1cd08f44ff6b6e0b",
+    "/Inventory/assets/fonts/Circe-Thin.ttf": "4f31abbacf6084e0e5a627f5f7f18e34189fabd5",
+    "/Inventory/assets/fonts/Circe-Thin.woff": "ee66304ba39daf6a28447cddc8fcf844a4ad5bbb",
+    "/Inventory/assets/fonts/Circe-Thin.woff2": "073ebcad88e7484b6ab2dc9d36403a225fb5a6d1",
+    "/Inventory/assets/imgs/icon.png": "fb2d7755550d3ed143fa8818ac27091365508002",
+    "/Inventory/assets/svgs/burger-topmenu.svg": "ad0fb7ded7a30eecc57db94eda17ec5378349b00",
+    "/Inventory/assets/svgs/icon.svg": "f3e6b99cb6268fc0dcf34efb1e94e8122bd8a62b",
+    "/Inventory/assets/svgs/logo.svg": "933342092fb43e38f886a5a35a344869729e9478",
+    "/Inventory/assets/svgs/logout.svg": "05c7346160f80726cf6eadd023594246c5c9595c",
+    "/Inventory/assets/svgs/select-arrow.svg": "733739ad2aeba7ee2ebbcfc6919878c1b0590c08",
+    "/Inventory/icons/icon-128x128.png": "29643e2a10d21295cb828cfb4664213bc3e68a39",
+    "/Inventory/icons/icon-144x144.png": "516230a61a2a4bd0764f82d72b177f340d388dfe",
+    "/Inventory/icons/icon-152x152.png": "f59364d6a644cd8d167946ea5a5e4c3c24ffbe04",
+    "/Inventory/icons/icon-192x192.png": "b775989bb165c3753ba84987f1f1753937262318",
+    "/Inventory/icons/icon-384x384.png": "c41ea03f8943f5d776eefc7f1521b8ab4c908bdc",
+    "/Inventory/icons/icon-512x512.png": "bf1fd9bd511c4e0c31a8e8cc50f61e404aa00aeb",
+    "/Inventory/icons/icon-72x72.png": "fefd453958ec6205bcd0a5057637fd633201c668",
+    "/Inventory/icons/icon-96x96.png": "bc51057d5e7bd73556cf208ac21141620e199962",
+    "/Inventory/index.html": "4b481267284012d3dbe5a37eb248e6cd5f53ca9b",
+    "/Inventory/main-U6H7IJCX.js": "8b0b274cc0321ef1999dee0c3504b1593c7520ef",
+    "/Inventory/manifest.webmanifest": "8b0467d39cad822ec1679d95becfae5689f41c0b",
+    "/Inventory/styles-6TZNFAIH.css": "9a9fcdc84506d12d7b4eecfa95243f283602da8a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
